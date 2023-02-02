@@ -1,0 +1,39 @@
+ul {
+  margin: 0;
+  list-style: none;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1, h3, h2, p {
+  margin: 0;
+}
+
+img {
+  display: block;
+  width: 100%;
+}
+
+.header__list {
+  display: flex;
+  margin-top: 27px;
+  margin-bottom: 27px;
+  font-weight: 500;
+  justify-content: end;
+  margin-right: 60px;
+  gap: 30px;
+}
+
+.header__item {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 29px;
+  color: #000000;
+}
+
+.header__item:hover {
+  color: #FF6464;
+}/*# sourceMappingURL=main.css.map */

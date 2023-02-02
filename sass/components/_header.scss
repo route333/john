@@ -1,0 +1,21 @@
+.header__list{
+    display: flex;
+    margin-top: 27px;
+    margin-bottom: 27px;
+    font-weight: 500;
+    justify-content: end;
+    margin-right: 60px;
+    gap: 30px;
+}
+
+.header__item{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 29px;
+
+    color: #000000;
+}
+
+.header__item:hover{
+    color: #FF6464;
+}
